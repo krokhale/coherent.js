@@ -1,0 +1,21 @@
+{
+  "name": "coherent.js",
+  "main": "coherent.js",
+  "description": "Coherent.js",
+  "keywords": [
+    "coherent"
+  ],
+  "authors": [
+    "krishna@bitbakery.io"
+  ],
+  "license": "MIT",
+  "homepage": "bitbakery.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
