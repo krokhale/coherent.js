@@ -10,7 +10,6 @@
   ],
   "license": "MIT",
   "homepage": "bitbakery.io",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
